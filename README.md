@@ -137,7 +137,7 @@ profit-king/
 ### Multi-Agent Collaboration
 
 - **Parallel Analysis** - Multiple AI analysts work simultaneously to improve efficiency
-- **View Integration** - CIO investment director unified decision-making avoids分歧
+- **View Integration** - CIO investment director unified decision-making avoids disagreement
 - **Confidence Quantification** - Each decision has reliability scoring
 - **Transparent Reasoning** - Complete analysis process traceability
 
@@ -165,6 +165,7 @@ This project adopts the **MIT License**, allowing free use and modification
 
 **Empower Your Investments with AI**
 
-*Profit King - A New Era of Quantitative Trading*
+*Profit King - A New Era of Trading*
 
 </div>
+
